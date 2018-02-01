@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="act" value="export function $actionName$(data) {&#10;  return {&#10;    type: $type$,&#10;    payload: $payload$&#10;  };&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="actionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="payload" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,17 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <TypeScriptCodeStyleSettings>
+          <option name="USE_DOUBLE_QUOTES" value="false" />
+          <option name="FORCE_QUOTE_STYlE" value="true" />
+          <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+          <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+          <option name="SPACES_WITHIN_IMPORTS" value="true" />
+          <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+        </TypeScriptCodeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
